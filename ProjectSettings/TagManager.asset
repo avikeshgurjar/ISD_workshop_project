@@ -4,8 +4,8 @@
 TagManager:
   serializedVersion: 3
   tags:
-  - coin
   - Bomb
+  - Coin
   layers:
   - Default
   - TransparentFX
